@@ -157,7 +157,7 @@
           "architecture": "ch32v",
           "version": "master",
           "category": "Contributed",
-          "url": "hhttps://github.com/openwch/arduino_core_ch32/archive/refs/heads/",
+          "url": "https://github.com/openwch/arduino_core_ch32/archive/refs/heads/",
           "archiveFileName": "main.zip",
           "boards": [
             {"name": "CH32X035 EVT Board"},		  
